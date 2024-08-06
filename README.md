@@ -1,11 +1,13 @@
 # Fonts
 This is my fork! 
 
+[World Wide Fonts: Community Discord](https://discord.gg/88pmrUwx7g) - https://discord.gg/88pmrUwx7g
+
 I know, you know, we know, fonts are often expansive. But it is really easy to find free official files of them. So there are so much of them here and it's not going to stop.
 
-- Full size of Downloaded Reposiroty (compressed) : __±1.38GiB__
-- Full size of Downloaded Repository : __± 2.59GiB__
-- Full size of Cloned Repository : __± 3.83GiB__
+- Full size of Downloaded Repository (compressed) : __±1.49GiB__
+- Full size of Downloaded Repository : __± 2.90GiB__
+- Full size of Cloned Repository : __± 4.27GiB__
 
 
 
@@ -87,12 +89,14 @@ ______
 <summary><strong>Font List by Author</strong></summary>
 
 #### [ABCDinamo](https://www.abcdinamo.com)
+- Diatype
 - Diatype Programm
 - Favorit
 	- Pro
 	- Std
 	- Std Lining
 	- Std Mono
+- Ginto Nord
 - Gothic
 - Monument Grotesk
 - Pegasus
@@ -140,6 +144,10 @@ ______
     - Variable (2020)
 
 
+#### [Arendxstudio](https://www.behance.net/aseprendii)
+- Vickie
+
+
 #### [Atelier Olschinsky](https://www.olschinsky.at)
 - AO Mono
 - Minimal Mono
@@ -174,6 +182,7 @@ ______
 
 
 #### [Black [Foundry]](https://black-foundry.com)
+- Angus
 - Bluu Superstar
 - Clother
 - Drive Mono
@@ -225,15 +234,40 @@ ______
 - M+
 
 
+#### [Commercial Type](https://commercialtype.com/)
+- Schnyder S Web
+
+
 #### [Colophon Foundry](https://www.colophon-foundry.org)
 - Apercu (+Pro, Pro Condensed, Pro Mono)
+- Instagram Sans
 - Reader
 - Space Mono
 - System85
 
 
+#### [Connary Fagen, Inc.](https://connary.com/)
+- Quincy
+
+
 #### [Corentin Riviere](https://www.behance.net/corentinrvr)
 - College Stencil
+
+
+#### [CoType Foundry](https://cotypefoundry.com/)
+- Aeonik
+- Aeonik Fono
+- Aeonik Mono
+- Aeonik Pro
+- Altform
+- Ambit
+- Betatron
+- Coanda
+- Gridular
+- Orbikular
+- RM Mono
+- RM Neue
+- Scandium
 
 
 #### [Craft Supply Co.](https://www.behance.net/craftsupplyco)
@@ -245,8 +279,10 @@ ______
 
 
 #### [Dalton Maag](https://www.daltonmaag.com)
-- AirBnb Cereal
+- Airbnb Cereal
+    - 1.0.0.1 -> 1.0.0.2
 - Amazon Ember
+- Facebook Narrow
 - Fantasque Sans Mono
 - ~~Netflix Sans~~
 - Ubuntu
@@ -279,13 +315,35 @@ ______
 - Sometype Mono
 
 
+#### [Discord](https://discord.com/)
+- gg sans
+
+
 #### [Displaay Type Foundry](https://displaay.net)
 - Gellix - _Trial_
 - Matter - _Trial_
+- Roobert
+
+
+#### [DSType Foundry](https://www.dstype.com/)
+- User
+
+
+#### [Eclectotype](https://www.instagram.com/eclectotype/?hl=en)
+- Gelica
+
+
+#### [Ertekinno](https://ertekin.xyz/)
+- Libre Caslon Condensed
 
 
 #### [Etcetera Type Company](https://www.etc.supply)
 - ETC Trispace
+
+
+#### [Evil Martians](https://evilmartians.com/)
+- Martian Grotesk
+- Martian Mono
 
 
 #### [Fabrizio Schiavi](https://www.fsd.it)
@@ -296,11 +354,19 @@ ______
 - Publica Sans
 
 
+#### [Facundo Giménez](https://www.behance.net/facundogimenezdesign)
+- Autonoma Display (Beta)
+
+
 #### [Family Type](https://familytype.com)
 - Athletics
 - Bossa (+Expanded,Extended)
 - Modern Era (+Mono)
 - Universal Sans
+
+
+#### [Fenotype](https://fenotype.com)
+- Cosmopolitan Script
 
 
 #### [Florian Karsten](https://floriankarsten.com)
@@ -319,6 +385,10 @@ ______
 - Nexa
 
 
+#### [FontMesa](https://www.linotype.com/481423/fontmesa-library.html)
+- Marlin Soft
+
+
 #### [Fonts with Love](http://www.fontswithlove.com)
 - Ethos
 
@@ -327,6 +397,10 @@ ______
 - Jigsaw Sans
 - Noto
 - Product Sans
+
+
+### [Gradient](https://wearegradient.net/)
+- PolySans
 
 
 #### [Graham Paterson](https://grahampaterson.co.za)
@@ -402,6 +476,10 @@ ______
 - Poppins
 
 
+#### [Intel](https://www.intel.com/content/www/us/en/company-overview/one-monospace-font.html)
+- Intel One Mono
+
+
 #### [Ion Lucin](https://www.behance.net/ionL)
 - Big John (+Pro)
 - Slim joe
@@ -435,10 +513,19 @@ ______
 - Domaine
 	- Display Narrow
 	- Sans Display
+- Family
+- Founders Grotesk
+- Untitled Sans
+- Untitled Serif
 
 
 #### [Krisijanis Mezulis](https://www.krisjanismezulis.com)
 - Undeka
+
+
+#### [Laurids Kern](https://github.com/lauridskern)
+- Open Runde
+    - 1.0 -> 1.0.1
 
 
 #### [Lineto](https://lineto.com/)
@@ -451,6 +538,12 @@ ______
 - Neue Haas Grotesk
 - Neuzeit S LT
 - Univers
+
+
+#### [Local Remote](https://localremote.co/)
+- TASA
+    - TASA Explorer
+    - TASA Orbiter
 
 
 #### [Love Letters](http://love-letters.be)
@@ -466,6 +559,14 @@ ______
 
 #### [Łukasz Dziedzic](http://www.lukaszdziedzic.eu)
 - Lato
+
+
+#### [Made Type](https://behance.com/madetype)
+- MADE Sunflower
+
+
+#### [Manuel Fernández del Campo García](https://manuelfcg.com/)
+- Xochi
 
 
 #### [Maous](http://maous.fr)
@@ -527,6 +628,8 @@ ______
 
 
 #### [Pablo Impallari](https://www.behance.net/impallari)
+- Libre Caslon Display
+- Libre Caslon Text
 - Lobster
 
 
@@ -551,6 +654,7 @@ ______
 - Grafier
 - Hatton
 - Monument Extended
+- Mori
 - Neue Machina
 - Neue Montreal
 - Object Sans
@@ -589,6 +693,14 @@ ______
 - Junicode
 
 
+#### [Power Type](https://power-type.com/)
+- OffBit (Trial)
+
+
+#### [Prioritype Co](https://prioritypeco.com/)
+- Sunday Bloom
+
+
 #### [Process Type Foundry](https://processtypefoundry.com/)
 - Cardinal
 - Spectral
@@ -610,9 +722,7 @@ ______
 
 #### [Rasmus Andersson](https://rsms.me/)
 - Inter
-	- 2.5 (Inter UI) -> 3.19 (Inter)
-- Inter Display
-	- 3.12.Alpha -> 3.19.Beta.2 
+	- 2.5 (Inter UI) -> 4.0 (Inter)
 
 
 #### [Razzia Type](https://www.razziatype.com)
@@ -636,6 +746,10 @@ ______
 - Noe (+Display,Text)
 
 
+#### [Seb McLauchlan](https://sebmclauchlan.com/)
+- Honk
+
+
 #### [Source Foundry](https://github.com/source-foundry)
 - Hack
 
@@ -652,12 +766,20 @@ ______
 - Konstant Grotesk
 
 
+#### [Stephen Nixon](https://arrowtype.com)
+- Libre Caslon Text
+
+
 #### [Steppot](https://steppot.com)
 - Lunchtype
 
 
 #### [Steve Matteson](https://mattesontypographics.com)
 - Open Sans
+
+
+#### [Studio Kmzero](https://www.kmzero.com/index.html)
+- Advertising Script
 
 
 #### [Suisse Typefaces](https://www.swisstypefaces.com)
@@ -667,6 +789,11 @@ ______
 - Suisse Neue
 - Suisse Sign
 - Suisse Works
+
+
+#### [Taner Ardalı](https://tanerardali.com/)
+- Antre
+- Planc
 
 
 #### [The League of Moveable Type](https://www.theleagueofmoveabletype.com)
@@ -697,12 +824,12 @@ ______
 - TT Commons
 
 
+#### [Typofacto](https://typofacto.com/)
+- ExcellenceInMotion
+
+
 #### [Typotheque](https://www.typotheque.com)
 - Zilla Slab
-
-
-#### [U.S. Web Design System](https://designsystem.digital.gov)
-- Public Sans
 
 
 #### [URW Type Foundry](https://www.urwtype.com/en/)
@@ -710,11 +837,20 @@ ______
 - Neuzeit Grotesk
 
 
+#### [U.S. Web Design System](https://designsystem.digital.gov)
+- Public Sans
+
+
 #### [Velvetyne](http://velvetyne.fr)
 - Bluu Next
 - Happy Times at the IKOB
 - Lack
 - Sporting Grotesque
+
+
+#### [Vercel](https://vercel.com/font)
+- Geist
+    - +Mono
 
 
 #### [Vernon Adams](https://github.com/vernnobile)
@@ -727,6 +863,10 @@ ______
 
 #### [Wassim Awadallah](https://www.behance.net/blugraphic)
 - Less Sans
+
+
+#### [We Are Ensemble](https://weareensemble.co.uk/)
+- Tombstone Blues
 
 
 #### [Wei Huang](https://github.com/weiweihuanghuang/)
@@ -746,11 +886,11 @@ ______
 <details>
 	<summary><strong>Designers</strong></summary>
 
-- [ANTI](https://anti.as)
 - [Alex Slobzheninov](https://www.behance.net/slobzheninov)
 - [Andreas Larsen](https://github.com/larsenwork)
 - [Andrew Herndon](https://www.behance.net/AndrewHerndon)
-- [Apple](https://developer.apple.com/fonts/)
+- [ANTI](https://anti.as)
+- [Arendxstudio](https://www.behance.net/aseprendii)
 - [Atelier Olschinsky](https://www.olschinsky.at)
 - [Belleve Invis](https://github.com/be5invis)
 - [Boris Garic](http://boris-garic.com)
@@ -758,26 +898,32 @@ ______
 - [Chris Simpson](https://github.com/chrismsimpson)
 - [Christian Robertson](http://christianrobertson.com)
 - [Coji Morishita](https://fr.osdn.net/users/coz/)
+- [Connary Fagen, Inc.](https://connary.com/)
 - [Corentin Riviere](https://www.behance.net/corentinrvr)
 - [Daniel Iglesias](https://www.behance.net/danibydani)
 - [Danilo De Marco](https://www.danilodemarco.com)
 - [Dave Crossland](http://understandingfonts.com/who/dave-crossland/)
 - [David Jonathan Ross](https://djr.com)
+- [Ertekinno](https://ertekin.xyz/)
 - [Fabrizio Schiavi](https://www.fsd.it)
+- [Facundo Giménez](https://www.behance.net/facundogimenezdesign)
+- [Fenotype](https://fenotype.com)
 - [Florian Karsten](https://floriankarsten.com)
 - [Graham Paterson](https://grahampaterson.co.za)
 - [Hans Renzler](http://www.renzler.net)
 - [Hugo Dumont](https://www.myfonts.com/person/Hugo_Dumont/)
-- [iA](https://ia.net)
 - [Ian Tuomi](https://github.com/i-tu)
 - [Ion Lucin](https://www.behance.net/ionL)
 - [Jean Wojciechowski](https://www.behance.net/jeanwoj)
-- [JetBrains](https://www.jetbrains.com)
 - [Jérémy Landes](https://studiotriple.fr)
 - [Joël Carrouché](https://www.joelcarrouche.com)
 - [Krisijanis Mezulis](https://www.krisjanismezulis.com)
+- [Laurids Kern](https://github.com/lauridskern)
+- [Local Remote](https://localremote.co/)
 - [Lucas Sharp](http://lucassharp.com)
 - [Łukasz Dziedzic](http://www.lukaszdziedzic.eu)
+- [Manuel Fernández del Campo García](https://manuelfcg.com/)
+- [Marc Simonson](https://www.marksimonson.com/)
 - [Mikhail Sharanda](https://gent.media)
 - [Nathan Rutzky](https://nath.co)
 - [Ndiscover](https://www.ndiscovered.com)
@@ -785,20 +931,23 @@ ______
 - [Pablo Impallari](https://www.behance.net/impallari)
 - [Paul D. Hunt](https://fonts.adobe.com/designers/paul-d-hunt)
 - [Peter Baker](https://github.com/psb1558)
-- [RMIT](https://www.rmit.edu.au)
 - [Radomir Tinkov](https://www.tinkov.info)
 - [Raph Levien](https://levien.com)
 - [Rasmus Andersson](https://rsms.me/)
+- [RMIT](https://www.rmit.edu.au)
 - [Roger S. Nelsson](https://www.myfonts.com/person/Roger_S_Nelsson/)
 - [Rune Bjørnerås](https://github.com/rubjo)
+- [Seb McLauchlan](https://sebmclauchlan.com/)
 - [Starbucks](https://creative.starbucks.com/typography/)
 - [Stephen French](https://www.behance.net/stephenfrenchjr)
+- [Stephen Nixon](https://arrowtype.com)
 - [Steve Matteson](https://mattesontypographics.com)
+- [Taner Ardalı](https://tanerardali.com/)
 - [Timo Kuilder](https://timokuilder.com)
-- [U.S. Web Design System](https://designsystem.digital.gov)
 - [Vernon Adams](https://github.com/vernnobile)
 - [Vicenzo Vuono](https://www.behance.net/vincenzovuono)
 - [Wassim Awadallah](https://www.behance.net/blugraphic)
+- [We Are Ensemble](https://weareensemble.co.uk/)
 - [Wei Huang](https://github.com/weiweihuanghuang/)
 
 </details>
@@ -807,6 +956,7 @@ ______
 	<summary><strong>Foundries</strong></summary>
 
 - [ABCDinamo](https://www.abcdinamo.com)
+- [Apple](https://developer.apple.com/fonts/)
 - [atipo foundry](http://atipofoundry.com)
 - [Berthold Types](https://www.bertholdtypes.com)
 - [Black [Foundry]](https://black-foundry.com)
@@ -815,53 +965,71 @@ ______
 - [BrightHead Studio](https://brightheadstudio.com)
 - [CNAP](https://www.cnap.fr)
 - [Colophon Foundry](https://www.colophon-foundry.org)
+- [Commercial Type](https://commercialtype.com/)
+- [CoType Foundry](https://cotypefoundry.com/)
 - [Craft Supply Co.](https://www.behance.net/craftsupplyco)
 - [Creative Tacos](https://creativetacos.com)
 - [Dalton Maag](https://www.daltonmaag.com)
 - [Delve Fonts](https://delvefonts.com)
 - [Dharma Type](https://dharmatype.com)
+- [Discord](https://discord.com/)
 - [Displaay Type Foundry](https://displaay.net)
+- [DSType Foundry](https://www.dstype.com/)
+- [Eclectotype](https://www.instagram.com/eclectotype/?hl=en)
 - [Etcetera Type Company](https://www.etc.supply)
+- [Evil Martians](https://evilmartians.com/)
 - [FaceType](https://www.facetype.org)
 - [Family Type](https://familytype.com)
 - [fontfabric](https://www.fontfabric.com)
+- [FontMesa](https://www.linotype.com/481423/fontmesa-library.html)
 - [Fonts with Love](http://www.fontswithlove.com)
 - [Google](https://fonts.google.com)
-- [G-Type](#### [G-Type](https://g-type.com/)
+- [Gradient](https://wearegradient.net/)
+- [G-Type](https://g-type.com/)
 - [Hanken Design Co.](https://hanken.co)
 - [Harvatt House](https://harvatt.house)
 - [Hoefler & Co.](https://www.typography.com)
+- [iA](https://ia.net)
 - [Indestructible Type\*](https://indestructibletype.com/Home.html)
 - [Indian Type Foundry](https://www.indiantypefoundry.com)
+- [Intel](https://www.intel.com/content/www/us/en/company-overview/one-monospace-font.html)
 - [JAM Type](https://jamtype.com)
+- [JetBrains](https://www.jetbrains.com)
 - [Klim Type Foundry](https://klim.co.nz)
 - [Lineto](https://lineto.com/)
 - [Linotype](https://www.linotype.com/fr/)
 - [Love Letters](http://love-letters.be)
-- [MKCL](https://mckltype.com)
+- [Made Type](https://behance.com/madetype)
 - [Maous](http://maous.fr)
-- [Marc Simonson](https://www.marksimonson.com/)
 - [Microsoft](https://github.com/microsoft)
 - [Milieu Grotesque](https://www.milieugrotesque.com)
+- [MKCL](https://mckltype.com)
 - [Monotype](https://www.monotype.com/)
 - [Nonpareille](https://www.nonpareille.net)
 - [Pampatype](https://pampatype.com)
 - [Pangram Pangram](https://pangrampangram.com)
 - [Parachute](https://www.parachutefonts.com)
+- [Power Type](https://power-type.com/)
+- [Process Type Foundry](https://processtypefoundry.com/)
+- [Prioritype Co](https://prioritypeco.com/)
 - [Production Type](https://www.productiontype.com)
 - [Razzia Type](https://www.razziatype.com)
 - [Schick-Toikka](https://www.schick-toikka.com)
 - [Source Foundry](https://github.com/source-foundry)
 - [Steppot](https://steppot.com)
+- [Studio Kmzero](https://www.kmzero.com/index.html)
 - [Suisse Typefaces](https://www.swisstypefaces.com)
 - [The League of Moveable Type](https://www.theleagueofmoveabletype.com)
 - [Think Work Observe](https://t-wo.it)
 - [Tribby Type](https://tribby.com)
-- [TypeType](https://typetype.org)
 - [Typefaces of The Temporary State](http://typefaces.temporarystate.net/)
+- [TypeType](https://typetype.org)
+- [Typofacto](https://typofacto.com/)
 - [Typotheque](https://www.typotheque.com)
 - [URW Type Foundry](https://www.urwtype.com/en/)
+- [U.S. Web Design System](https://designsystem.digital.gov)
 - [Velvetyne](http://velvetyne.fr)
+- [Vercel](https://vercel.com/font)
 - [Wordshape](http://wordshape.com)
 - [Zeta Fonts](https://www.zetafonts.com)
 
